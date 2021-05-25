@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ThijmenHartmann
+- ⚙ I’m currently learning mechatronics
